@@ -1,0 +1,14 @@
+<resources>
+    <string name="in_stock">In stock</string>
+    <string name="out_stock">Out of stock</string>
+    <string name="retail">Retail</string>
+    <string name="wholesale">Wholesale</string>
+    <string name="price_euro">%1$s €</string>
+    <string name="discount_percent">-%1$d%%</string>
+    <string name="load_error">"Failed to load"</string>
+    <string name="retry_label">"Retry"</string>
+    <string name="shipping">Shipping</string>
+    <string name="warranty">Warranty</string>
+    <string name="return_policy">Return policy</string>
+    <string name="rating_value">Rating: %1$.1f</string>
+</resources>

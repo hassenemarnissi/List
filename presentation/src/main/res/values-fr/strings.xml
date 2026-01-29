@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_stock">En stock</string>
+    <string name="out_stock">Rupture de stock</string>
+
+    <string name="retail">Vente au détail</string>
+    <string name="wholesale">Vente en gros</string>
+
+    <string name="price_euro">%1$s €</string>
+
+    <string name="discount_percent">-%1$d%%</string>
+    <string name="load_error">"Erreur lors du chargement"</string>
+    <string name="retry_label">"Réessayer"</string>
+    <string name="shipping">Livraison</string>
+    <string name="warranty">Garantie</string>
+    <string name="return_policy">Politique de retour</string>
+    <string name="rating_value">Note : %1$.1f</string>
+</resources>
